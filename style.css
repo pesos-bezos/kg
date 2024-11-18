@@ -153,6 +153,7 @@ form{
     align-content: baseline;
     justify-content: space-between;
     background-color: white;
+    align-items: start;
     
 }
 .a7{
@@ -174,9 +175,7 @@ form{
    padding: 10px 10px;
 }
 .a8 img{
-    max-width: 120px;
-    width: 100%;
-    min-height: 120px;
+   
     margin: 20px 10px;
   
 }
@@ -258,7 +257,7 @@ form{
         min-height: 80px;
     }
     form input{
-        width: 92.5%!important;
+        box-sizing: border-box!important;
         max-width: initial!important;
     }
     .text{
@@ -274,5 +273,12 @@ form{
     header ul{
         flex-direction: column;
     }
+    .a10{
+        padding: 0px 20px;
+        text-align: center;
+    }
    
+}
+@media screen and (max-width: 400px){
+    
 }
