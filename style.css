@@ -288,6 +288,6 @@ form{
     }
     .a5 img{
         width: 50px;
-       justify-content: center;
+      justify-content: space-around;
     }
 }
