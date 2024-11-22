@@ -289,7 +289,8 @@ form{
     .a5 img{
         width: 50px;
     }
-    .a5{
-        justify-content: space-around;
-    }
+}
+.a11{
+    display: flex;
+    justify-content: center;
 }
