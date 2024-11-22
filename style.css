@@ -280,5 +280,14 @@ form{
    
 }
 @media screen and (max-width: 400px){
-    
+    .a5 p{
+        font-size: 10px;
+    }
+    .a5 h1{
+        font-size: 15px; 
+    }
+    .a5 img{
+        width: 50px;
+      
+    }
 }
