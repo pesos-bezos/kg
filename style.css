@@ -279,7 +279,7 @@ form{
     }
    
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 480px){
     .a5 p{
         font-size: 10px;
     }
@@ -288,6 +288,6 @@ form{
     }
     .a5 img{
         width: 50px;
-      margin: 10px 0px;
+      margin: 15px 0px;
     }
 }
