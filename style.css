@@ -117,7 +117,7 @@ form{
     width: 100%;
     display: flex;
     align-items: start;
-    justify-content: space-between;
+    justify-content: center;
 }
 .wq{
     display: flex;
@@ -288,6 +288,9 @@ form{
     }
     .a5 img{
         width: 50px;
+    }
+    .a5{
+       width: 80%; 
     }
 }
 .a11{
