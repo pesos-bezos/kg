@@ -1,0 +1,154 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.body{
+	font-family: 'OpenSans', Arial, sans-serif;
+    font-size: 12px;
+    background-repeat: no-repeat;
+    background: #202020;
+}
+.container{
+	width: 1319px;
+	margin: 0 auto;
+}
+.xz{
+	color: white;
+	padding-right: 27px;
+	font-size: 30px;
+}
+header ul{
+	list-style: none;
+	display: flex;
+	align-items: center;
+
+}
+header{
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.xz a{
+	color: #ffffff;
+	font-family: "Open Sans";
+	text-decoration: none;
+	font-size: 31px;
+}
+.xz a:hover{
+   color: orange;
+}
+.xz a::selection{
+	background-color: transparent;
+}
+.came{
+	background-image: url(images/Image.png);
+    width: 570px;
+    height: 530px;
+    background-size: 601px;
+    background-repeat: no-repeat;
+	
+}
+.nn{
+	display: flex;
+	margin-top: 138px;
+	justify-content: space-between;
+
+
+}
+.pilesos{
+	font-size: 34px;
+    color: white;
+    text-align: right;
+    font-family: "Open Sans";
+    line-height: 32px;
+    margin-top: 70px;
+    width: 262px;
+
+}
+.krolik{
+	    font-size: 18px;
+    color: white;
+    text-align: right;
+    font-family: "Open Sans";
+    margin-top: -1px;
+}
+.capital{
+    color: white;
+    text-align: right;
+    font-family: "Open Sans";
+    width: 340px;
+    margin-top: 16px;
+    font-size: 14px;
+}
+.brain a{
+	color: white;	
+	font-family: "Josefin Sans";
+	text-align: center;
+	text-decoration: none;
+	font-size: 27px;
+
+	
+}
+.BS{
+	height: 348px;
+	display: flex;
+	flex-direction: column;
+	width: 340px;
+	align-items: end;
+	justify-content: space-between;
+
+}
+.BS a{
+    align-self: center;
+    color: white;
+    text-decoration: none;
+    font-size: 32px;
+    border: 3px solid white;
+    padding: 9px;
+    margin-top: 234px;
+    border-radius: 21px;
+
+}
+.BS a:hover{
+	color: orange;
+}
+.abc{
+	color: white;
+	font-family: "Open Sans";
+
+}
+.yarick{
+	width: 459px;
+	margin-top: 100px;
+	height: 513px;
+}
+.sas{
+	color: black;
+	background: rgba(255, 255, 255, .15);
+	border-radius: 6px;
+	padding-left: 4px;
+}
+.def{
+	width: 77px;
+	margin-bottom: 30px;
+}
+.penchi{
+	width: 130px;
+	margin-top: 217px;
+
+}
+.maksim{
+	color: black;
+	background: rgba(255, 255, 255, .15);
+	border-radius: 6px;
+	padding-left: 4px;
+}
+.aralash{
+	color: white;
+	width: 437px;
+	margin-top: 20px;
+}
+.abaydno{
+	height: 20px;
+}
